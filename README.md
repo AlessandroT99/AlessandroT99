@@ -20,20 +20,20 @@ I'm Alessandro, here you can get some information about me:
 - 🔭 I'm interested in Robotics, Electronics, Machine Learning, etc...
 - ⚡ I really like to try new programming languages and learn new things.
 
-Here below there are some of my projects!
-
-If you want to reach out...
-</a> 
-
+<br/><br/>
+Look at my Github recent stats!    
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlessandroT99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlessandroT99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>   
+<br/><br/>
+    
+If you want to know more about me click below!   
+</a>       
    <a href="www.linkedin.com/in/alessandro-tiozzo-908819170">
-
   <img align="left" alt="Alessandro's LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-
 </a>
-  
   <a href="https://tialex02.wixsite.com/my-site">
-
   <img align="left" alt="Alessandro's personal website" width="40px" src="images/personal_website.png" />
-
-</a>
+</a>    
 
