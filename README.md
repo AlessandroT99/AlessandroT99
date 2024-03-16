@@ -19,10 +19,10 @@ I'm Alessandro, here you can get some information about me:
 - 🎓 I'm a Master's degree student at Politecnico di Torino in Italy in Mechatronic Engineering.
 - 🔭 I'm interested in Robotics, Electronics, Machine Learning, and Controls.
 - ⚡ I like trying new programming languages and learning new things.
-- 🌱 I love humanoid robotics, active prostheses, digital electronic, and automotive fields.
+- 🌱 I love humanoid robotics, active prostheses, digital electronics, and automotive fields.
 
 <br/><br/>
-Look at my Github recent stats!    
+Look at my recent stats!    
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AlessandroT99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlessandroT99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
