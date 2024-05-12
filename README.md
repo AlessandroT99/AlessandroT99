@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Alessandro, here you can get some information about me:
 - 🎓 I'm a Master's degree student at Politecnico di Torino in Italy in Mechatronic Engineering.
-- 🔭 I'm interested in Robotics, Electronics, Machine Learning, and Controls.
+- 🔭 I'm interested in Automotive, Robotics, Electronics, Machine Learning, and Controls.
 - ⚡ I like trying new programming languages and learning new things.
 - 🌱 I love humanoid robotics, active prostheses, digital electronics, and automotive fields.
 
